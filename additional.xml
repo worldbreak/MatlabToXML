@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<additional>
+  <inductionLoop id="myLoop1" lane="3a_1" pos="10" freq="60" file="3a_1.xml"/>
+</additional>
